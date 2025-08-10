@@ -38,8 +38,9 @@
 
 <br clear="both">
 
+
 <div align="center">
-  <img src="https://www.linkedin.com/in/david-mart%C3%ADnez-sanz/&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" href="https://www.linkedin.com/in/david-mart%C3%ADnez-sanz/" 
+    </div>
 
 ###
