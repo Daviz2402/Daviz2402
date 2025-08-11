@@ -13,7 +13,7 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<div align="center" style="display: flex;  flex-direction: row; justify-content: center; gap: 40px; flex-wrap: wrap;">
   <div style="display: flex; flex-direction: column; align-items: center; gap: 8px; border: 1px solid #ccc; padding: 10px; border-radius: 8px;">
     <strong>Frameworks</strong>
     <div style="display: flex; gap: 8px;">
