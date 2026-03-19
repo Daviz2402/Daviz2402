@@ -18,21 +18,7 @@ I'm a passionate developer focused on building efficient, aesthetically pleasing
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,java,python,nodejs,astro,js,html,css,supabase,bun" />
+  <img src="https://skillicons.dev/icons?i=rust,java,python,nodejs,astro,js,html,css,supabase,bun,reflex" />
 </div>
 
 ---
-
-### 📫 Connect with me
-<p align="center">
-  <a href="https://github.com/Daviz2402">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:david@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daviz2402&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
