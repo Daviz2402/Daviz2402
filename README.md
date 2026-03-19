@@ -18,7 +18,7 @@ I'm a passionate developer focused on building efficient, aesthetically pleasing
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,java,python,nodejs,astro,js,html,css,mysql,supabase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=rust,java,python,nodejs, bun, reflex, astro,js,html,css,supabase" />
 </div>
 
 ---
