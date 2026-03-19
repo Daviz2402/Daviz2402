@@ -16,8 +16,6 @@
   
   <!-- Frameworks -->
   <img src="https://skillicons.dev/icons?i=astro" height="30" alt="astro logo" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo" />
   &nbsp;&nbsp; &nbsp;&nbsp;
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
