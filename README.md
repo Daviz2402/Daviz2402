@@ -1,37 +1,63 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 I'm David</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45E9FF&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Building+tools+with+Rust;TUI+Explorer" alt="Typing SVG" />
+</p>
 
+---
 
-## My Contribution Graph
+### 🚀 About Me
+I'm a passionate developer focused on building efficient, aesthetically pleasing tools. Currently diving deep into **Rust** and **TUI** (Terminal User Interfaces) architectures. I love crafting clean code and exploring new tech stacks.
 
+- 🔭 I’m currently working on [**PolyRunner**](https://github.com/Daviz2402/polyrun) - A powerful multi-pane TUI project manager.
+- 🌱 I’m currently learning **Advanced Rust** and **System Programming**.
+- 💬 Ask me about **Astro, Python, or Web Design**.
+- ⚡ Fun fact: I believe the best UI is the one that feels alive in your terminal.
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust,java,python,nodejs,astro,js,html,css,mysql,supabase,sqlite,git,github,vscode,debian" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daviz2402&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daviz2402&layout=compact&theme=tokyonight&hide_border=true&align=center" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daviz2402&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🕹️ Contribution Activity
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph.svg">
   </picture>
+</p>
 
+---
 
+### 📫 Connect with me
+<p align="center">
+  <a href="https://github.com/Daviz2402">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:david@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-###
-<div align="center">
-  
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=astro" height="30" alt="astro logo" />
-  &nbsp;&nbsp; &nbsp;&nbsp;
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
-  &nbsp;&nbsp; &nbsp;&nbsp;
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  &nbsp;&nbsp; &nbsp;&nbsp;
-  <!-- Bases de Datos -->
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo" />
-</div>
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Daviz2402&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
