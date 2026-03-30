@@ -40,16 +40,16 @@ jobs:
           fi
 
       - name: Update README
-          run: |
-            STATE="${{ steps.activity.outputs.state }}"
-            MSG="${{ steps.activity.outputs.msg }}"
-            
-            # Construir el nuevo bloque HTML (escapando las comillas para sed)
-            NEW_CONTENT="<img src='https://raw.githubusercontent.com/Daviz2402/Daviz2402/main/assets/$STATE.gif' width='150' />\n  <p><i>\"$MSG\"</i></p>"
-            
-            # El comando sed con las etiquetas corregidas
-            sed -i "//,//c\\n  $NEW_CONTENT\n  " README.md
-            
+        run: |
+          STATE="${{ steps.activity.outputs.state }}"
+          MSG="${{ steps.activity.outputs.msg }}"
+          
+          # Construir el nuevo bloque HTML
+          NEW_CONTENT="<img src='https://raw.githubusercontent.com/Daviz2402/Daviz2402/main/assets/$STATE.gif' width='150' />\n  <p><i>\"$MSG\"</i></p>"
+          
+          # COMANDO CORREGIDO: Ahora busca las etiquetas reales
+          sed -i "//,//c\\n  $NEW_CONTENT\n  " README.md
+
       - name: Commit changes
         run: |
           git config --global user.name "DevGotchi Bot"
