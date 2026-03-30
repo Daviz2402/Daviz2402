@@ -38,3 +38,13 @@ I'm a versatile software developer focused on building efficient, scalable, and 
 </div>
 
 ---
+
+
+## 🛡️ Mi Vitrina de Habilidades (Gym Badges)
+
+| Lenguaje | Nivel | Medalla |
+| :--- | :--- | :--- |
+| **Java** | Experto | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Python** | Avanzado | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| **JavaScript** | Intermedio | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| **GitHub Actions** | Aprendiz | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
