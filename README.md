@@ -16,9 +16,7 @@
 </p>
 
 ---
-## 🏅 Mis Medallas de Desarrollador
 
-![Mis Trofeos](github-metrics.svg)
 
 ### 🚀 About Me
 
