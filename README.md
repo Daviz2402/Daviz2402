@@ -16,7 +16,9 @@
 </p>
 
 ---
+## 🏅 Mis Medallas de Desarrollador
 
+![Mis Trofeos](github-metrics.svg)
 
 ### 🚀 About Me
 
@@ -28,7 +30,7 @@ I'm a versatile software developer focused on building efficient, scalable, and 
 - ⚡ Fun fact: I believe that code is the bridge between raw data and meaningful impact.
 
 
-https://github-profile-trophy.vercel.app/?username=Daviz2402&theme=darkhub
+
 ---
 
 ### 🛠️ Tech Stack
