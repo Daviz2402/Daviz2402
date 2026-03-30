@@ -1,0 +1,59 @@
+name: Dev-gotchi Evolution
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Se ejecuta cada 6 horas
+  workflow_dispatch: # Para probarlo manualmente
+
+jobs:
+  update-pet:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Check GitHub Activity
+        id: activity
+        run: |
+          # Consultar la fecha del último commit del usuario
+          LAST_COMMIT_DATE=$(curl -s -H "Authorization: token ${{ secrets.METRICS_TOKEN }}" \
+            "https://api.github.com/users/Daviz2402/events/public" | \
+            jq -r '[.[] | select(.type=="PushEvent")][0].created_at')
+          
+          # Calcular horas desde el último commit
+          LAST_TIMESTAMP=$(date -d "$LAST_COMMIT_DATE" +%s)
+          NOW=$(date +%s)
+          HOURS_SINCE=$(( ($NOW - $LAST_TIMESTAMP) / 3600 ))
+          
+          echo "Horas desde el último commit: $HOURS_SINCE"
+          
+          if [ $HOURS_SINCE -lt 24 ]; then
+            echo "state=happy" >> $GITHUB_OUTPUT
+            echo "msg=¡Me siento genial! Gracias por los commits." >> $GITHUB_OUTPUT
+          elif [ $HOURS_SINCE -lt 48 ]; then
+            echo "state=neutral" >> $GITHUB_OUTPUT
+            echo "msg=Un poco de código no vendría mal... ¿un commit?" >> $GITHUB_OUTPUT
+          else
+            echo "state=sad" >> $GITHUB_OUTPUT
+            echo "msg=Zzz... mi base de código está acumulando polvo..." >> $GITHUB_OUTPUT
+          fi
+
+      - name: Update README
+        run: |
+          STATE="${{ steps.activity.outputs.state }}"
+          MSG="${{ steps.activity.outputs.msg }}"
+          
+          # Construir el nuevo bloque HTML
+          NEW_CONTENT="<img src='https://raw.githubusercontent.com/Daviz2402/Daviz2402/main/assets/$STATE.gif' width='150' />\n  <p><i>\"$MSG\"</i></p>"
+          
+          # Inyectar en el README
+          sed -i "//,//c\\n  $NEW_CONTENT\n  " README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "DevGotchi Bot"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "🐾 El Dev-gotchi ha evolucionado a estado: ${{ steps.activity.outputs.state }}" || exit 0
+          git push
