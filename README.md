@@ -16,9 +16,7 @@
 </p>
 
 ---
-### 🏆 Mis Logros de Entrenador (GitHub Trophies)
 
-[![trophies](https://github-profile-trophy.vercel.app/?username=Daviz2402&theme=flat&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🚀 About Me
 
@@ -29,6 +27,8 @@ I'm a versatile software developer focused on building efficient, scalable, and 
 - 💬 Ask me about **Astro, Python, or Web Design**.
 - ⚡ Fun fact: I believe that code is the bridge between raw data and meaningful impact.
 
+
+https://github-profile-trophy.vercel.app/?username=Daviz2402&theme=darkhub
 ---
 
 ### 🛠️ Tech Stack
