@@ -40,11 +40,70 @@ I'm a versatile software developer focused on building efficient, scalable, and 
 ---
 
 
-## 🛡️ Mi Vitrina de Habilidades (Gym Badges)
+## 🏆 Mi Estuche de Medallas Técnicas
 
-| Lenguaje | Nivel | Medalla |
-| :--- | :--- | :--- |
-| **Java** | Experto | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
-| **Python** | Avanzado | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
-| **JavaScript** | Intermedio | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| **GitHub Actions** | Aprendiz | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) |
+<div align="center">
+  
+  <div style="
+    background-color: #2D3436; /* Color de fondo oscuro (caja) */
+    background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%); /* Degradado para profundidad */
+    border: 8px solid #E1B12C; /* Borde dorado grueso (el marco) */
+    border-radius: 15px; /* Bordes redondeados */
+    padding: 30px; /* Espaciado interno */
+    width: 80%; /* Ancho de la vitrina */
+    box-shadow: 0 10px 20px rgba(0,0,0,0.5); /* Sombra para efecto 3D */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 columnas de medallas */
+    gap: 25px; /* Espacio entre medallas */
+    justify-items: center; /* Centrar las medallas */
+    align-items: center; /* Centrar verticalmente */
+  ">
+
+    <div style="text-align: center;">
+      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      <br>
+      <span style="color: #E1B12C; font-weight: bold; font-size: 1.2em; font-family: 'Courier New', Courier, monospace;">⭐⭐⭐⭐</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      <br>
+      <span style="color: #E1B12C; font-weight: bold; font-size: 1.2em; font-family: 'Courier New', Courier, monospace;">⭐⭐⭐⭐⭐</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      <br>
+      <span style="color: #E1B12C; font-weight: bold; font-size: 1.2em; font-family: 'Courier New', Courier, monospace;">⭐⭐⭐</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://img.shields.io/badge/git%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      <br>
+      <span style="color: #E1B12C; font-weight: bold; font-size: 1.2em; font-family: 'Courier New', Courier, monospace;">⭐⭐⭐</span>
+    </div>
+
+    <div style="text-align: center;">
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);" />
+      <br>
+      <span style="color: #E1B12C; font-weight: bold; font-size: 1.2em; font-family: 'Courier New', Courier, monospace;">⭐⭐</span>
+    </div>
+
+    <div style="
+      width: 100px; 
+      height: 100px; 
+      border: 4px dashed #57606F; /* Borde discontinuo gris */
+      border-radius: 50%; /* Hueco redondo */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #57606F;
+      font-weight: bold;
+    ">
+      ?
+    </div>
+
+  </div>
+  
+  <p style="margin-top: 15px; color: #57606F;">_Habilidades demostradas en combate real_</p>
+</div>
