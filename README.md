@@ -39,10 +39,6 @@ I'm a versatile software developer focused on building efficient, scalable, and 
 
 ---
 
-<div align="center">
-  <h2>💻 Mi Dev-gotchi</h2>
-  <img src="https://raw.githubusercontent.com/Daviz2402/Daviz2402/main/assets/happy.gif" width="150" />
-  <p><i>"¡Me siento genial! Gracias por los commits."</i></p>
-</div>
+
 
 ---
