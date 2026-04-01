@@ -1,7 +1,11 @@
+
+---
+
 <h1 align="center">Hey 👋 I'm David</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45E9FF&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Passionate+about+Data;Full+Stack+Developer" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 🚀 About Me
@@ -30,3 +34,5 @@ I'm a versatile software developer focused on building efficient, scalable, and 
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
+---
