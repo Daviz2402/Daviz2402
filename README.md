@@ -5,17 +5,7 @@
 
 ---
 
-### 🕹️ My Contribution Activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
----
 
 
 ### 🚀 About Me
@@ -32,4 +22,14 @@ I'm a versatile software developer focused on building efficient, scalable, and 
 
 ---
 
+### 🕹️ My Contribution Activity
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+---
