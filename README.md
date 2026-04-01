@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I'm a versatile software developer focused on building efficient, scalable, and aesthetically pleasing systems. I have a deep passion for **data engineering**, backend architectures, and crafting tools that simplify workflows.
+I'm a versatile software developer focused on building efficient, scalable, and aesthetically pleasing systems. I have a deep passion for **data engineering and analysis**, backend architectures, and crafting tools that simplify workflows.
 
 - 🔭 I’m currently working on [**PolyRunner**](https://github.com/Daviz2402/polyrun) - A high-performance multi-pane TUI project manager.
 - 🌱 I’m currently exploring **new architectures** and **data-driven solutions**.
