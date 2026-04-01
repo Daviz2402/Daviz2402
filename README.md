@@ -39,7 +39,6 @@ I'm a versatile software developer focused on building efficient, scalable, and 
 
 ---
 
-  <img src="./assets/skill-tree.svg" width="800">
 
 
 ---
