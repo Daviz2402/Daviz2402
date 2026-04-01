@@ -27,19 +27,9 @@ I'm a versatile software developer focused on building efficient, scalable, and 
 - 💬 Ask me about **Astro, Python, or Web Design**.
 - ⚡ Fun fact: I believe that code is the bridge between raw data and meaningful impact.
 
-### 🚀 Skills Tree
+### 🚀 Tech Stack
 ![My Skill Tree](./assets/skill-tree.svg)
 
 ---
 
-### 🛠️ Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,java,python,none,astro,js,html,css,none,nodejs,bun,none,supabase" />
-</div>
-
----
-
-
-
----
