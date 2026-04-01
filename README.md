@@ -38,6 +38,8 @@ I'm a versatile software developer focused on building efficient, scalable, and 
 </div>
 
 ---
-![My Skill Tree](./assets/skill-tree.svg)
+<p align="center">
+  <img src="./assets/skill-tree.svg" width="800">
+</p>
 
 ---
