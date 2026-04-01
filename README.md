@@ -30,8 +30,3 @@ I'm a versatile software developer focused on building efficient, scalable, and 
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-
----
-<p align="center">
-  <a href="https://github.com/Daviz2402"><img src="https://img.shields.io/github/followers/Daviz2402?label=Follow&style=social" /></a>
-</p>
