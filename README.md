@@ -2,12 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45E9FF&center=true&vCenter=true&width=435&lines=Software+Developer;Open+Source+Enthusiast;Passionate+about+Data;Full+Stack+Developer" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/Daviz2402"><img src="https://img.shields.io/github/followers/Daviz2402?label=Follow&style=social" /></a>
-  <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Contact-Email-blue?style=flat-square&logo=gmail" /></a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -37,8 +31,7 @@ I'm a versatile software developer focused on building efficient, scalable, and 
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daviz2402&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150" />
-</p>
-
 ---
+<p align="center">
+  <a href="https://github.com/Daviz2402"><img src="https://img.shields.io/github/followers/Daviz2402?label=Follow&style=social" /></a>
+</p>
