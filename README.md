@@ -28,9 +28,7 @@ I'm a versatile software developer focused on building efficient, scalable, and 
 - ⚡ Fun fact: I believe that code is the bridge between raw data and meaningful impact.
 
 
-<p align="center">
-  <img src="./assets/skill-tree.svg" width="800">
-</p>
+![My Skill Tree](./assets/skill-tree.svg)
 
 ---
 
