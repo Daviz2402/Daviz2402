@@ -19,9 +19,6 @@ I'm a versatile software developer focused on building efficient, scalable, and 
 
 ### 🗺️ Tech Nexus (Knowledge Map)
 
-<p align="center">
-  <img src="./assets/skill-tree.svg" width="auto" alt="David's Skill Tree" />
-</p>
 
 ---
 
