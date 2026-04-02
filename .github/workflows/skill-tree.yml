@@ -1,0 +1,12 @@
+- name: Generate Skill Tree
+  uses: Daviz2402/SkillTree@main
+  with:
+    config-path: 'mi-configuracion/mis-skills.json' # Opcional
+    output-path: 'assets/skill-tree.svg'           # Opcional
+
+- name: Commit changes
+  run: |
+    git config --global user.name "github-actions[bot]"
+    git add assets/skill-tree.svg
+    git commit -m "Update skill tree" || echo "No changes"
+    git push
