@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@v4
 
       # Generar versión Oscura
-      - name: Generate Dark SVG
+      - name: Generate SVG
         uses: Daviz2402/SkillTree@main
         with:
           config-path: 'config/skills.json'
@@ -26,3 +26,4 @@ jobs:
         with:
           folder: output
           branch: output
+          clean: false
