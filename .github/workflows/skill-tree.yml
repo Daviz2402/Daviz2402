@@ -1,12 +1,34 @@
-- name: Generate Skill Tree
-  uses: Daviz2402/SkillTree@main
-  with:
-    config-path: 'mi-configuracion/mis-skills.json' # Opcional
-    output-path: 'assets/skill-tree.svg'           # Opcional
+name: Generate Skill Tree
 
-- name: Commit changes
-  run: |
-    git config --global user.name "github-actions[bot]"
-    git add assets/skill-tree.svg
-    git commit -m "Update skill tree" || echo "No changes"
-    git push
+on:
+  push:
+    paths:
+      - 'config/skills.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run Skill Tree Generator
+        uses: Daviz2402/SkillTree@main
+        with:
+          config-path: 'config/skills.json'
+          output-path: 'assets/skill-tree.svg'
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/skill-tree.svg
+          if git diff --staged --quiet; then
+            echo "No hay cambios en el SVG."
+          else
+            git commit -m "docs: actualización automática del skill tree"
+            git push
+          fi
