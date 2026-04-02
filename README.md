@@ -18,7 +18,8 @@ I'm a versatile software developer focused on building efficient, scalable, and 
 - ⚡ Fun fact: I believe that code is the bridge between raw data and meaningful impact.
 
 ### 🗺️ Tech Nexus (Knowledge Map)
-![Mi Skill Tree](output/skill-tree.svg)
+![Skill Tree](https://raw.githubusercontent.com/daviz2402/daviz2402/output/skill-tree.svg)
+
 
 ---
 
