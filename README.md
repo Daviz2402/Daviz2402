@@ -19,7 +19,7 @@ I'm a versatile software developer focused on building efficient, scalable, and 
 
 ### 🗺️ Tech Nexus (Knowledge Map)
 <p align="center">
-  <img src="./assets/skill-tree.svg" width="auto" alt="David's Skill Tree" />
+  <img src="./output/skill-tree.svg" width="auto" alt="David's Skill Tree" />
 </p>
 
 
@@ -27,12 +27,12 @@ I'm a versatile software developer focused on building efficient, scalable, and 
 
 ### 🕹️ My Contribution Activity
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/daviz2402/daviz2402/output/pacman-contribution-graph.svg">
+    </picture>
+  </p>
 
 ---
