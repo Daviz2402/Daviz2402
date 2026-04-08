@@ -17,7 +17,7 @@ I'm a versatile software developer focused on building efficient, scalable, and 
 - 💬 Ask me about **Astro, Python, or Web Design**.
 - ⚡ Fun fact: I believe that code is the bridge between raw data and meaningful impact.
 
-### 🗺️ Tech Nexus (**SkilTree**](https://github.com/Daviz2402/SkillTree))
+### 🗺️ Tech Nexus [**SkilTree**](https://github.com/Daviz2402/SkillTree)
 ![Skill Tree](https://raw.githubusercontent.com/daviz2402/daviz2402/output/skill-tree.svg)
 
 
